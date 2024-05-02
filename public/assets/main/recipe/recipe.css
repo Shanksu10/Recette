@@ -1,0 +1,135 @@
+
+.line-time {
+    position: static;
+}
+
+.horizontal-line {
+    width: 25%;
+    height: 1px;
+    background-color: gray;
+    position: relative;
+    top: 50%;
+}
+
+.horizontal-line-left {
+    width: 5%;
+    height: 1px;
+    background-color: gray;
+    position: relative;
+    top: 50%;
+}
+
+.horizontal-line-center {
+    width: 27%;
+    height: 1px;
+    background-color: gray;
+    position: relative;
+    top: 50%;
+}
+
+.horizontal-line-right {
+    width: 10%;
+    height: 1px;
+    background-color: gray;
+    position: relative;
+    top: 50%;
+}
+
+.horizontal-line-2 {
+    width: 42%;
+    height: 1px;
+    background-color: gray;
+    position: relative;
+    top: 50%;
+}
+
+.horizontal-line-20 {
+    width: 18%;
+    height: 1px;
+    background-color: gray;
+    position: relative;
+    top: 50%;
+}
+
+.star {
+    font-size: 1.5rem;
+}
+
+.hover {
+    color: rgb(255, 196, 0);
+    cursor: pointer;
+}
+
+.horizontal-line-50 {
+    width: 55%;
+    height: 1px;
+    background-color: gray;
+    position: relative;
+    top: 50%;
+}
+
+.popup-save {
+    background-color: rgba(0, 0, 0, 0.3);
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    z-index: 1;
+}
+
+.popup {
+    background-color: #21364e;
+    border-radius: 10px;
+    box-shadow: 0px 10px 5px 5px rgba(0, 0, 0, 0.4);
+    padding: 20px;
+    text-align: center;
+}
+
+#yes-save, #no-save{
+    cursor: pointer;
+    column-rule: #354961;
+    border: 0;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+#yes-save:active, #no-save:active {
+    transform: scale(0.95);
+}
+#yes-save:focus, #no-save:focus {
+    outline: 0;
+}
+
+
+.popup-delete {
+    background-color: rgba(0, 0, 0, 0.3);
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    z-index: 1;
+}
+#yes-delete, #no-delete{
+    cursor: pointer;
+    column-rule: #354961;
+    border: 0;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+#yes-delete:active, #no-delete:active {
+    transform: scale(0.95);
+}
+#yes-delete:focus, #no-delete:focus {
+    outline: 0;
+}

@@ -1,0 +1,54 @@
+.carouselBestRecipes {
+    width: 90%;
+    height: auto;
+}
+
+.bestRecipeContentCarousel a{
+    width: 100%;
+    height: auto;
+}
+
+#blog_title_row {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+#recettesFrangines {
+    font-family: 'Italianno';
+    font-weight: normal;
+    font-style: italic;
+    font-size: 60px;
+    color: #340350;
+}
+
+#subtitle {
+    font-family: 'Italianno';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 30px;
+    color: #b9b8b8;
+}
+
+#quiSommesNous {
+    margin-bottom: 2rem;
+    color: #340350;
+
+}
+
+#aboutUs {
+    height: 200px;
+    background-color: #2e7aa7;
+    border-radius: 10px;
+    padding: 2rem;
+}
+
+#aboutUs p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    color: rgb(255, 255, 255);
+}
+
+

@@ -1,0 +1,17 @@
+@import "./lib/bootstrap/css/bootstrap.css";
+@import "./main/user/user.css";
+@import "./main/jaiEnvie/frontend.css";
+@import "resources/css/app.css";
+@import "./main/ingredient/ingredient.css";
+
+@import "./main/dashboard/dashboard.css";
+@import "./main/navbar/navbar.css";
+@import "./main/recipe/recipe.css";
+@import "./main/sharingButtons/sharingButtons.css";
+@import "./main/home/home.css";
+@import "./main/addMeal/addMeal.css";
+@import "./main/userMeals/userMeals.css";
+@import "./main/mealRecipes/mealRecipes.css";
+
+
+

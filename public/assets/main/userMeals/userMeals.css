@@ -1,0 +1,11 @@
+#recipe-card {
+    height: 400px; /* définir une hauteur fixe pour toutes les cartes de recette */
+}
+  
+img {
+    height: 65%; /* ajuster la hauteur de l'image pour qu'elle remplisse toute la hauteur de la div */
+    object-fit: cover; /* ajuster l'image pour qu'elle remplisse complètement la div, sans distorsion */ 
+}
+
+
+
